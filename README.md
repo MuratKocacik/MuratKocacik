@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratkocacik" alt="muratkocacik" /></a> </p>
 
-<p align="left"> <a href="[[https://twitter.com/muratkocacik](https://linkedin.com/in/murat-kocacık-74a06721b)]" target="blank"><img src="https://img.shields.io/twitter/follow/muratkocacik?logo=twitter&style=for-the-badge" alt="muratkocacik" /></a> </p>
+<p align="left"> <a href="[https://linkedin.com/in/murat-kocacık-74a06721b]" target="blank"><img src="https://img.shields.io/twitter/follow/muratkocacik?logo=twitter&style=for-the-badge" alt="muratkocacik" /></a> </p>
 
 - 🔭 I’m currently working on **Automation**
 
